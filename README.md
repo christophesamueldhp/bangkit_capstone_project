@@ -1,1 +1,3 @@
-# bangkit_capstone_project
+# Bangkit Capstone Project
+
+chatbot for self medical diagnosis
